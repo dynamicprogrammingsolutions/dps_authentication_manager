@@ -6,6 +6,18 @@
     <artifactId>dps.authentication</artifactId>
     <version>1.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <name>DPS Authentication</name>
+    <description>Provides authentication mechanism for webapplications</description>
+    <url>https://github.com/dynamicprogrammingsolutions/dps_authentication_manager</url>
+    <developers>
+        <developer>
+            <id>ferenci84</id>
+            <name>Zoltan Laszlo Ferenci</name>
+            <email>ferenci84@gmail.com</email>
+            <organization>Dynamic Programming Solutions</organization>
+            <organizationUrl>http://dynamicprogrammingsolutions.com</organizationUrl>
+        </developer>
+    </developers>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
