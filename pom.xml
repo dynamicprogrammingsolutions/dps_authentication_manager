@@ -9,6 +9,12 @@
     <name>DPS Authentication</name>
     <description>Provides authentication mechanism for webapplications</description>
     <url>https://github.com/dynamicprogrammingsolutions/dps_authentication_manager</url>
+    <licenses>
+        <license>
+            <name>ISC</name>
+            <url>https://www.isc.org/downloads/software-support-policy/isc-license/</url>
+        </license>
+    </licenses>
     <developers>
         <developer>
             <id>ferenci84</id>
