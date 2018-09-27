@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dps_authentication_manager" />
+        <module name="dps.authentication" />
         <module name="dps_commons" />
         <module name="dps_webapplication" />
         <module name="dpslogging" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="dps.authentication" target="1.8" />
       <module name="dps_authentication_manager" target="1.8" />
       <module name="dps_commons" target="1.8" />
       <module name="dps_webapplication" target="1.8" />
