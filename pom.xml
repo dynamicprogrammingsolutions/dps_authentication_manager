@@ -4,7 +4,7 @@
 
     <groupId>com.dynamicprogrammingsolutions</groupId>
     <artifactId>dps.authentication</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -159,7 +159,7 @@
         <connection>scm:git:git://github.com/dynamicprogrammingsolutions/dps_authentication_manager.git</connection>
         <developerConnection>scm:git:ferenci84@github.com:dynamicprogrammingsolutions/dps_authentication_manager.git</developerConnection>
         <url>https://github.com/dynamicprogrammingsolutions/dps_authentication_manager</url>
-        <tag>HEAD</tag>
+        <tag>dps.authentication-1.0.2</tag>
     </scm>
 
     <dependencies>
